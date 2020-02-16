@@ -18,6 +18,10 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 
+### IntelliJ ###
+.idea/
+*.iml
+
 ### Eclipse ###
 
 .metadata
