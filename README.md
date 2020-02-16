@@ -1,4 +1,6 @@
 # TIC3001-Travis-demo
+[![Build Status](https://travis-ci.org/TIC3001/Travis_Demo.svg?branch=master)](https://travis-ci.org/TIC3001/Travis_Demo)
+
 TIC3001: Demo project for using Travis and Maven.
 
 This project was developed with **Java 8**. Make sure you have appropriate [SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed on your machine.
